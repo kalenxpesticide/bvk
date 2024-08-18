@@ -1,0 +1,7 @@
+org\bvk\response\RestockDto.class
+org\bvk\enumeration\ResponseCode.class
+org\bvk\response\InventoryDto.class
+org\bvk\response\PurchaseStockDto.class
+org\bvk\response\ListIdDto.class
+org\bvk\response\ResponseRestfulEntity.class
+org\bvk\Main.class
